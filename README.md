@@ -13,7 +13,7 @@ However some users are experiencing an error comming with the legend >> **"Can't
 
 A current work arround at the moment is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
-After installation you can check if there is a new update available and install it with the commands below.
+After installation you can check or install a new version available with the commands below.
 
 ```sh
 softwareupdate --list
