@@ -8,10 +8,12 @@ Normally you can install the Command Line Tools for Xcode with the command:
 xcode-select --install
 ```
 
-However some users are experiencing an error comming with the legend >> **"Can't install the software because it is not currently available from the Software Update server"**
+However some users are experiencing this error: 
+
+![Error](https://miro.medium.com/max/724/1*e7w-y-_XfPa95IVcB2eJXA.png)
 
 
-A current work arround is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
+> A current work arround is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
 After installation you can check or install a new version available with the commands below.
 
