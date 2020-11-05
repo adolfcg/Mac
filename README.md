@@ -1,4 +1,4 @@
-# Mac Initial Setup
+# macOS Initial Setup
 
 ### Install Command Line Tools for Xcode 
 
