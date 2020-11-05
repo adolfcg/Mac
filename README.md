@@ -13,7 +13,7 @@ However some users are experiencing this error:
 ![Error](https://miro.medium.com/max/724/1*e7w-y-_XfPa95IVcB2eJXA.png)
 
 
-> No problem, a current work arround is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
+> No problem, a current workarround is to download the DMG package directly from [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
 After installation you can check or install a new version available with the commands below.
 
