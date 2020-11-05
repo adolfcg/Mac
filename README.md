@@ -11,7 +11,7 @@ xcode-select --install
 However some users are experiencing an error comming with the legend >> **"Can't install the software because it is not currently available from the Software Update server"**
 
 
-A current work arround at the moment is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
+A current work arround is to download the DMG package directly from Apple Developer Center [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
 After installation you can check or install a new version available with the commands below.
 
