@@ -2,18 +2,13 @@
 
 ### Install Command Line Tools for Xcode 
 
-Normally you can install the Command Line Tools for Xcode with the command: 
+Usually you can install the Command Line Tools for Xcode with the command: 
 
 ```sh
 xcode-select --install
 ```
 
-However some users are experiencing this error: 
-
-![Error](https://miro.medium.com/max/724/1*e7w-y-_XfPa95IVcB2eJXA.png)
-
-
-> No problem, a current workarround is to download the DMG package directly from [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
+> Or download and install it from [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
 After installation you can check or install a new version available with the commands below.
 
