@@ -1,6 +1,6 @@
 # macOS Initial Setup
 
-### Install Command Line Tools for Xcode 
+## Install Command Line Tools for Xcode ##
 
 Usually you can install the Command Line Tools for Xcode with the command: 
 
@@ -17,7 +17,7 @@ softwareupdate --list
 softwareupdate --all --install --force
 ```
 
-### Install Homebrew
+## Install Homebrew ##
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"  
