@@ -8,7 +8,7 @@ Usually you can install the Command Line Tools for Xcode with the command:
 xcode-select --install
 ```
 
-> Or download and install it from [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
+> Or download and install it from the original source [ [here](https://developer.apple.com/download/more/?=command%20line%20tools) ]
 
 After installation you can check or install a new version available with the commands below.
 
